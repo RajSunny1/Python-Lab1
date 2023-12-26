@@ -1,1 +1,1 @@
-# Python-Lab1
+# Lab1_Python-for-DS
